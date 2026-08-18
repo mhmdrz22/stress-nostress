@@ -1,0 +1,8 @@
+{
+  "name": "ArameshYar",
+  "description": "Android application for stress and anxiety detection using AI based on text, along with local and psychological solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
